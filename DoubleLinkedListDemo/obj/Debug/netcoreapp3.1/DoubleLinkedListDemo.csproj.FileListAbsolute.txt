@@ -1,0 +1,14 @@
+D:\ProjectCoder\DoubleLinkedListDemo\bin\Debug\netcoreapp3.1\DoubleLinkedListDemo.exe
+D:\ProjectCoder\DoubleLinkedListDemo\bin\Debug\netcoreapp3.1\DoubleLinkedListDemo.deps.json
+D:\ProjectCoder\DoubleLinkedListDemo\bin\Debug\netcoreapp3.1\DoubleLinkedListDemo.runtimeconfig.json
+D:\ProjectCoder\DoubleLinkedListDemo\bin\Debug\netcoreapp3.1\DoubleLinkedListDemo.runtimeconfig.dev.json
+D:\ProjectCoder\DoubleLinkedListDemo\bin\Debug\netcoreapp3.1\DoubleLinkedListDemo.dll
+D:\ProjectCoder\DoubleLinkedListDemo\bin\Debug\netcoreapp3.1\DoubleLinkedListDemo.pdb
+D:\ProjectCoder\DoubleLinkedListDemo\obj\Debug\netcoreapp3.1\DoubleLinkedListDemo.csproj.AssemblyReference.cache
+D:\ProjectCoder\DoubleLinkedListDemo\obj\Debug\netcoreapp3.1\DoubleLinkedListDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectCoder\DoubleLinkedListDemo\obj\Debug\netcoreapp3.1\DoubleLinkedListDemo.AssemblyInfoInputs.cache
+D:\ProjectCoder\DoubleLinkedListDemo\obj\Debug\netcoreapp3.1\DoubleLinkedListDemo.AssemblyInfo.cs
+D:\ProjectCoder\DoubleLinkedListDemo\obj\Debug\netcoreapp3.1\DoubleLinkedListDemo.csproj.CoreCompileInputs.cache
+D:\ProjectCoder\DoubleLinkedListDemo\obj\Debug\netcoreapp3.1\DoubleLinkedListDemo.dll
+D:\ProjectCoder\DoubleLinkedListDemo\obj\Debug\netcoreapp3.1\DoubleLinkedListDemo.pdb
+D:\ProjectCoder\DoubleLinkedListDemo\obj\Debug\netcoreapp3.1\DoubleLinkedListDemo.genruntimeconfig.cache

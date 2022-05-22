@@ -1,0 +1,14 @@
+D:\ProjectCoder\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.csproj.AssemblyReference.cache
+D:\ProjectCoder\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectCoder\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.AssemblyInfoInputs.cache
+D:\ProjectCoder\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.AssemblyInfo.cs
+D:\ProjectCoder\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.csproj.CoreCompileInputs.cache
+D:\ProjectCoder\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.exe
+D:\ProjectCoder\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.deps.json
+D:\ProjectCoder\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.runtimeconfig.json
+D:\ProjectCoder\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.runtimeconfig.dev.json
+D:\ProjectCoder\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.dll
+D:\ProjectCoder\ConsoleApp5\bin\Debug\netcoreapp3.1\ConsoleApp5.pdb
+D:\ProjectCoder\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.dll
+D:\ProjectCoder\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.pdb
+D:\ProjectCoder\ConsoleApp5\obj\Debug\netcoreapp3.1\ConsoleApp5.genruntimeconfig.cache
